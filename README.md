@@ -12,4 +12,7 @@ a) Specifications: Input 20 V, Output 15-25 V, Switching frequency 10 kHz, Outpu
 Waveforms of diode current and switch voltage in CCM.
 
 b) Reduce switching frequency to demonstrate DCM.
+
+
+
 <img width="444" height="365" alt="Screenshot 2025-07-05 220116" src="https://github.com/user-attachments/assets/e91876e6-88ec-498e-ab2f-f2c8b347a33c" />
